@@ -42,10 +42,15 @@ Suivez des cours
 Tout au long de votre parcours, vous allez utiliser les cours recommandés pour développer de nouvelles compétences et pouvoir les démontrer dans les projets. Pour ce projet :
 
 le cours ![Apprenez à apprendre](https://openclassrooms.com/en/courses/4312781-apprenez-a-apprendre) vous aidera dans le développement de votre planning de formation, et à comprendre les concepts essentiels de l’apprentissage en tant que compétence ;
+
 le cours ![Développez vos soft skills](https://openclassrooms.com/en/courses/6692406-developpez-vos-soft-skills) vous aidera à créer votre propre plan d'action, pour développer les soft skills qui vous permettront d'atteindre vos objectifs ;
+
 le cours ![Gérez votre temps efficacement](https://openclassrooms.com/fr/courses/5944991-gerez-votre-temps-efficacement) vous aidera à suivre votre planning de formation tout au long de votre parcours ;
+
 le cours ![Comprendre le Web](https://openclassrooms.com/en/courses/1946386-comprendre-le-web) vous donnera un point de départ pour comprendre le métier ;
+
 le cours [Mettez en place un système de veille informationnelle](https://openclassrooms.com/en/courses/4805776-mettez-en-place-un-systeme-de-veille-informationnelle) vous aidera à réaliser votre veille technologique ;
+
 le cours [Découvrez les métiers de développeur](https://openclassrooms.com/fr/courses/6817086-decouvrez-les-metiers-de-developpeur) vous aidera à mieux comprendre le métier de développeur web. 
 
 ## Compétences évaluées
