@@ -12,7 +12,7 @@ Vous êtes sur le point de démarrer votre formation à distance, et il est impo
 Notez cependant que le format des projets sera différent par la suite. Vous serez immergé dans le monde du travail et réaliserez des livrables comme dans une vraie vie professionnelle.
 
 ## Définissez votre planning de formation
-Vous venez de vous inscrire chez OpenClassrooms pour un parcours de formation, et vous ne savez pas trop par où commencer. C’est tout à fait normal ! La pédagogie par projet est moins guidée que les méthodes de formation classiques. Cependant, elle vous permet de gagner rapidement en autonomie et d’aller à votre rythme. Cela vous donnera la possibilité d’être pleinement opérationnel dès la fin de votre formation !
+Vous venez de vous inscrire chez OpenClassrooms pour un parcours de formation, et vous ne savez pas trop par où commencer. C’est tout à fait normal ! La __pédagogie par projet__ est moins guidée que les méthodes de formation classiques. Cependant, elle vous permet de gagner rapidement en __autonomie__ et d’__aller à votre rythme__. Cela vous donnera la possibilité d’être pleinement opérationnel dès la fin de votre formation !
 
 Alors, pour vous organiser, pourquoi ne pas démarrer par la mise en place de votre planning de formation ?
 
@@ -20,7 +20,7 @@ Passez en revue chaque projet. Lisez rapidement les énoncés pour vous familiar
 
 En fonction de votre emploi du temps personnel, du temps que vous souhaitez consacrer à la formation et de vos contraintes, déterminez quand vous allez pouvoir travailler dans la semaine, et les dates prévisionnelles de soutenance de chacun de ces projets. 
 
-Préparez votre planning de formation, en indiquant notamment :
+Préparez votre __planning de formation__, en indiquant notamment :
 
 * le nombre d’heures consacrées à la formation chaque semaine ;
 * les dates prévisionnelles de soutenance de chaque projet.
