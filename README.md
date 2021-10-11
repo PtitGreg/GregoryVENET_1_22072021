@@ -38,7 +38,7 @@ Réunissez-les dans un tableau de bord que vous pourrez suivre régulièrement !
 
 Vous pouvez utiliser un grand nombre d’applications en ligne ou hors ligne telles qu’Evernote, Pocket, Figgle, Feedly, Twitter ou même Google Keep pour trier et sauvegarder vos sources.
 
-Suivez des cours
+## Suivez des cours
 * Tout au long de votre parcours, vous allez utiliser les cours recommandés pour développer de nouvelles compétences et pouvoir les démontrer dans les projets. Pour ce projet :
 * le cours [Apprenez à apprendre](https://openclassrooms.com/en/courses/4312781-apprenez-a-apprendre) vous aidera dans le développement de votre planning de formation, et à comprendre les concepts essentiels de l’apprentissage en tant que compétence ;
 * le cours [Développez vos soft skills](https://openclassrooms.com/en/courses/6692406-developpez-vos-soft-skills) vous aidera à créer votre propre plan d'action, pour développer les soft skills qui vous permettront d'atteindre vos objectifs ;
