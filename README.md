@@ -52,7 +52,7 @@ Vous pouvez utiliser un grand nombre d’applications en ligne ou hors ligne tel
 * Élaborer un plan d'apprentissage personnalisé
 * Sélectionner des sources pertinentes pour une veille technologique
 
-## Remarques sur l'évaluation
+# Remarques sur l'évaluation
 ## Compétences évaluées
 
 En vous basant sur les critères d’évaluation du projet, définissez le statut d’acquisition de chaque compétence et commentez à l'aide de ces instructions :
