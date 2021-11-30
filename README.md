@@ -51,3 +51,50 @@ Vous pouvez utiliser un grand nombre d’applications en ligne ou hors ligne tel
 * Mettre en place un tableau de bord de veille technologique
 * Élaborer un plan d'apprentissage personnalisé
 * Sélectionner des sources pertinentes pour une veille technologique
+
+## Remarques sur l'évaluation
+## Compétences évaluées
+
+En vous basant sur les critères d’évaluation du projet, définissez le statut d’acquisition de chaque compétence et commentez à l'aide de ces instructions :
+
+Validé - Commentez si besoin
+
+Non validé - Listez les critères non remplis
+
+ 
+
+## 1. Sélectionner des sources pertinentes pour une veille technologique
+
+Validé
+
+Commentaires :  Greg utilise notion avec un nombre assez conséquent de sources d'informations, et aussi tout un catalogue de formations bookmarkés
+
+## 2. Mettre en place un tableau de bord de veille technologique
+
+Validé
+
+Commentaires : Greg est à temps plein sur le parcours, le planning est assez précis, réaliste. Nous ferons de notre mieux pour être le plus fidèle possible
+
+ 
+
+## 3. Élaborer un plan d'apprentissage personnalisé
+
+Validé
+
+Commentaires : Le planning est bien fait
+
+ 
+
+## Livrable
+
+Points forts : Outil de veille informatique très bien étoffé
+
+ 
+
+Axes d'amélioration :
+
+ 
+
+## Soutenance
+
+Remarques : Pas de  remarques particulières
